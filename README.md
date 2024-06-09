@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋
-
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,java,c,py,react,nodejs,mongodb,bootstrap,tailwind,threejs,mysql,r,docker,solidity,sass,figma,firebase,azure,vim,tensorflow&theme=light)](https://skillicons.dev)
 ## About Me
 
 I'm a developer and an engineer by profession, currently working in the field of Machine Learning DevOps and full-stack web development. I have a passion for implementing my thoughts into code and am constantly learning new things to expand my skill set.
@@ -34,15 +34,6 @@ As a web developer, I enjoy building web applications that solve real-world prob
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Projects
-
-Here are a few projects that showcase my skills and interests:
-
-### [Project Name](link-to-project)
-A brief description of what this project does and its main features.
-
-### [Project Name](link-to-project)
-A brief description of what this project does and its main features.
 
 ## Learning and Growth
 
@@ -54,6 +45,6 @@ I am continuously learning and growing in my field. Here are some areas I am cur
 
 ## Get in Touch
 
-Feel free to reach out to me via [![Email](https://img.shields.io/badge/-email@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:email@example.com) or connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/).
+Feel free to reach out to me via [![Email](https://img.shields.io/badge/-email@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thejasdevadiga30@example.com) or connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejasdevadiga/).
 
 Thank you for visiting my GitHub profile!
