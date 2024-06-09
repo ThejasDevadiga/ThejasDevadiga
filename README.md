@@ -3,7 +3,7 @@
 ## About Me
 
 I'm a developer and an engineer by profession, currently working in the field of Machine Learning DevOps and full-stack web development. I have a passion for implementing my thoughts into code and am constantly learning new things to expand my skill set.
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ThejasDevadiga)](https://git.io/streak-stats)
 ## What I Do
 
 As a web developer, I enjoy building web applications that solve real-world problems. I am particularly interested in the areas of:
@@ -12,6 +12,8 @@ As a web developer, I enjoy building web applications that solve real-world prob
 - 👁️ **Computer Vision**
 - 🗣️ **Natural Language Processing (NLP)**
 - ⛓️ **Blockchain Technology**
+
+[![](https://github-readme-stats.vercel.app/api?&show_icons=true&theme=dark&username=ThejasDevadiga)](https://github.com/Deltan2002/github-readme-stats)
 
 ## Skills
 
